@@ -2,7 +2,7 @@
 
 <p align = center>   <img src="https://i.ibb.co/fVy8T2qS/b8dd31f8bc0c779a.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="IMMU-XD WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="IMMU-XD WHATSAPP BOT" src="https://img.shields.io/badge/IMMU-XD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## Support Channel
 
